@@ -1,0 +1,29 @@
+CYBERBULLYING ANALYSIS REPORT
+=============================
+
+Total Unique Words: 219
+Total Word Count: 393
+Total Toxic Words: 19
+Toxicity Level: 4.83%
+
+--- TOP 20 WORDS LIST ---
+the                  : 20 (CLEAN)
+a                    : 18 (CLEAN)
+i                    : 14 (CLEAN)
+of                   : 14 (CLEAN)
+are                  : 9 (CLEAN)
+in                   : 8 (CLEAN)
+to                   : 7 (CLEAN)
+have                 : 6 (CLEAN)
+all                  : 6 (CLEAN)
+was                  : 6 (CLEAN)
+is                   : 5 (CLEAN)
+and                  : 5 (CLEAN)
+their                : 5 (CLEAN)
+who                  : 5 (CLEAN)
+for                  : 5 (CLEAN)
+that                 : 5 (CLEAN)
+you                  : 4 (CLEAN)
+people               : 4 (CLEAN)
+as                   : 4 (CLEAN)
+up                   : 4 (CLEAN)
